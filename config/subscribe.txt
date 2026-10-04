@@ -1,4 +1,6 @@
-# 公开频道订阅，结果按 CCTV 模板筛选
+# 数据源：iptv-org/iptv、vbskycn/iptv、kaige-cai/live
 https://iptv-org.github.io/iptv/countries/cn.m3u
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u
+https://raw.githubusercontent.com/kaige-cai/live/main/live.m3u
 
 [WHITELIST]
