@@ -1,6 +1,7 @@
-# 数据源：iptv-org/iptv、vbskycn/iptv、kaige-cai/live
+# 数据源：iptv-org/iptv、vbskycn/iptv、kaige-cai/live、hujingguang/ChinaIPTV
 https://iptv-org.github.io/iptv/countries/cn.m3u
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u
 https://raw.githubusercontent.com/kaige-cai/live/main/live.m3u
+https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8
 
 [WHITELIST]
