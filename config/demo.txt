@@ -17,3 +17,7 @@ CCTV-14
 CCTV-15
 CCTV-16
 CCTV-17
+
+超高清频道,#genre#
+CCTV-4K
+CCTV-8K
